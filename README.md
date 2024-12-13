@@ -1,5 +1,7 @@
 # IMDB-EDA-Project
-### IMDB movies dataset cleaning and exploratory data analysis using SQL. 
+
+# Description
+IMDB movies dataset cleaning and exploratory data analysis using SQL, and creating visualizations using Tableau. 
 
 <h2>Data Cleaning</h2>
 
@@ -10,5 +12,10 @@
 - Remove unwanted columns.
 <br />
 
-<h2>Exploratory Data Analysis</h2>
-<br />
+# Exploratory Data Analysis
+Conduct exploratory data analysis to uncover trends, patterns, and key insights within the dataset
+
+# Visualization
+Export clean data table from SQL into a CSV file then use Tableau for visualization.
+
+[Visualization Using Tableau](https://public.tableau.com/views/imdb_movies_dataset_visualization/Dashboard1)
