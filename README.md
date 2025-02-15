@@ -10,7 +10,6 @@ IMDB movies dataset cleaning and exploratory data analysis using SQL, and creati
 - Create and add (if needed) new columns for analysis.
 - Remove null values and blank values.
 - Remove unwanted columns.
-<br />
 
 # Exploratory Data Analysis
 Conduct exploratory data analysis to uncover trends, patterns, and key insights within the dataset
